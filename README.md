@@ -1,4 +1,4 @@
-Equity Research News Tool
+**EQUITY RESEARCH NEWS TOOL**
 
 **Description:**
 A Streamlit-based news research tool that utilizes LangChain and OpenAI API to fetch and summarize news articles based on user queries.
