@@ -1,0 +1,4 @@
+langchain
+groqapi
+streamlit
+newsapi-python
